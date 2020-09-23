@@ -1,0 +1,338 @@
+/* BOUNCING POLKA DOTS! */
+
+.title {
+    position: absolute;
+    width: 1127px;
+    height: 157px;
+    left: 157px;
+    top: 417px;
+    font-family: Sarala;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 96px;
+    line-height: 157px;
+	
+    /* identical to box height */
+    color: rgba(0, 0, 0, 0.5);
+	
+	animation-name: bounce;
+	animation-duration: 5.0s;
+	animation-direction: alternate;
+	animation-timing-function: cubic-bezier(0.95, 0.05, 0.795, 0.035);
+	animation-iteration-count: infinite;
+}
+
+/* Ellipse 16 */
+.E16 {
+    position: absolute;
+    width: 140px;
+    height: 141px;
+    left: 16px;
+    top: 534px;
+    background: rgba(208, 211, 41, 0.5);
+	border-radius: 50%;
+	
+	animation-name: bounce;
+	animation-duration: 2.3s;
+	animation-direction: alternate;
+	animation-timing-function: cubic-bezier(0.95, 0.05, 0.795, 0.035);
+	animation-iteration-count: infinite;
+}
+
+
+/* Ellipse 15 */
+.E15 {
+    position: absolute;
+    width: 138px;
+    height: 139px;
+    left: 789px;
+    top: 295px;
+    background: rgba(236, 59, 59, 0.5);
+	border-radius: 50%;
+	
+	animation-name: bounce;
+	animation-duration: 1.6s;
+	animation-direction: alternate;
+	animation-timing-function: cubic-bezier(0.95, 0.05, 0.795, 0.035);
+	animation-iteration-count: infinite;
+}
+
+
+/* Ellipse 14 */
+.E14 {
+    position: absolute;
+    width: 131px;
+    height: 99px;
+    left: 792px;
+    top: 744px;
+    background: rgba(236, 59, 59, 0.5);
+	border-radius: 50%;
+	
+	animation-name: bounce;
+	animation-duration: 1.4s;
+	animation-direction: alternate;
+	animation-timing-function: cubic-bezier(0.95, 0.05, 0.795, 0.035);
+	animation-iteration-count: infinite;
+}
+
+
+/* Ellipse 13 */
+.E13 {
+    position: absolute;
+    width: 112px;
+    height: 90px;
+    left: 1279px;
+    top: 638px;
+    background: rgba(236, 59, 59, 0.5);
+	border-radius: 50%;
+	
+	animation-name: bounce;
+	animation-duration: 2.25s;
+	animation-direction: alternate;
+	animation-timing-function: cubic-bezier(0.95, 0.05, 0.795, 0.035);
+	animation-iteration-count: infinite;
+}
+
+
+/* Ellipse 12 */
+.E12 {
+    position: absolute;
+    width: 104px;
+    height: 83px;
+    left: 923px;
+    top: 548px;
+    background: rgba(101, 110, 197, 0.5);
+	border-radius: 50%;
+	
+	animation-name: bounce;
+	animation-duration: 2.47s;
+	animation-direction: alternate;
+	animation-timing-function: cubic-bezier(0.95, 0.05, 0.795, 0.035);
+	animation-iteration-count: infinite;
+}
+
+
+
+/* Ellipse 11 */
+.E11 {
+    position: absolute;
+    width: 134px;
+    height: 110px;
+    left: 476px;
+    top: 132px;
+    background: #94DFA4;
+	border-radius: 50%;
+	
+	animation-name: bounce;
+	animation-duration: 3.0s;
+	animation-direction: alternate;
+	animation-timing-function: cubic-bezier(0.95, 0.05, 0.795, 0.035);
+	animation-iteration-count: infinite;
+}
+
+
+
+/* Ellipse 10 */
+.E10 {
+    position: absolute;
+    width: 109px;
+    height: 85px;
+    left: 288px;
+    top: 590px;
+    background: rgba(101, 110, 197, 0.5);
+	border-radius: 50%;
+	
+	animation-name: bounce;
+	animation-duration: 0.5s;
+	animation-direction: alternate;
+	animation-timing-function: cubic-bezier(0.95, 0.05, 0.795, 0.035);
+	animation-iteration-count: infinite;
+}
+
+
+
+/* Ellipse 9 */
+.E9 {
+    position: absolute;
+    width: 150px;
+    height: 125px;
+    left: 1141px;
+    top: 440px;
+    background: #94DFA4;
+	border-radius: 50%;
+	
+	animation-name: bounce;
+	animation-duration: 4.0s;
+	animation-direction: alternate;
+	animation-timing-function: cubic-bezier(0.95, 0.05, 0.795, 0.035);
+	animation-iteration-count: infinite;
+}
+
+
+/* Ellipse 8 */
+.E8 {
+    position: absolute;
+    width: 188px;
+    height: 166px;
+    left: 476px;
+    top: 472px;
+    background: rgba(194, 101, 180, 0.5);
+	border-radius: 50%;
+	
+	animation-name: bounce;
+	animation-duration: 6.3s;
+	animation-direction: alternate;
+	animation-timing-function: cubic-bezier(0.95, 0.05, 0.795, 0.035);
+	animation-iteration-count: infinite;
+}
+
+
+
+/* Ellipse 7 */
+.E7 {
+    position: absolute;
+    width: 130px;
+    height: 121px;
+    left: 31px;
+    top: 40px;
+    background: rgba(236, 59, 59, 0.5);
+	border-radius: 50%;
+	
+	animation-name: bounce;
+	animation-duration: 2.09s;
+	animation-direction: alternate;
+	animation-timing-function: cubic-bezier(0.95, 0.05, 0.795, 0.035);
+	animation-iteration-count: infinite;
+}
+
+
+
+
+/* Ellipse 6 */
+.E6 {
+    position: absolute;
+    width: 205px;
+    height: 182px;
+    left: 937px;
+    top: 94px;
+    background: rgba(208, 211, 41, 0.5);
+	border-radius: 50%;
+	
+	animation-name: bounce;
+	animation-duration: 2.89s;
+	animation-direction: alternate;
+	animation-timing-function: cubic-bezier(0.95, 0.05, 0.795, 0.035);
+	animation-iteration-count: infinite;
+}
+
+
+
+
+/* Ellipse 5 */
+.E5 {
+    position: absolute;
+    width: 227px;
+    height: 189px;
+    left: 476px;
+    top: 785px;
+    background: #94DFA4;
+	border-radius: 50%;
+	
+	animation-name: bounce;
+	animation-duration: 3.54s;
+	animation-direction: alternate;
+	animation-timing-function: cubic-bezier(0.95, 0.05, 0.795, 0.035);
+	animation-iteration-count: infinite;
+}
+
+
+
+/* Ellipse 4 */
+.E4 {
+    position: absolute;
+    width: 176px;
+    height: 147px;
+    left: 1087px;
+    top: 769px;
+    background: rgba(208, 211, 41, 0.5);
+	border-radius: 50%;
+	
+	animation-name: bounce;
+	animation-duration: 7.0s;
+	animation-direction: alternate;
+	animation-timing-function: cubic-bezier(0.95, 0.05, 0.795, 0.035);
+	animation-iteration-count: infinite;
+}
+
+
+/* Ellipse 3 */
+.E3 {
+    position: absolute;
+    width: 202px;
+    height: 176px;
+    left: 140px;
+    top: 276px;
+    background: rgba(101, 110, 197, 0.5);
+	border-radius: 50%;
+	
+	animation-name: bounce;
+	animation-duration: 6.0s;
+	animation-direction: alternate;
+	animation-timing-function: cubic-bezier(0.95, 0.05, 0.795, 0.035);
+	animation-iteration-count: infinite;
+}
+
+
+/* Ellipse 2 */
+.E2 {
+    position: absolute;
+    width: 115px;
+    height: 108px;
+    left: 1308px;
+    top: 72px;
+    background: rgba(194, 101, 180, 0.5);
+	border-radius: 50%;
+	
+	animation-name: bounce;
+	animation-duration: 9.5s;
+	animation-direction: alternate;
+	animation-timing-function: cubic-bezier(0.95, 0.05, 0.795, 0.035);
+	animation-iteration-count: infinite;
+	
+}
+
+/* Ellipse 1 */
+.E1 {
+    position: absolute;
+    width: 150px;
+    height: 141px;
+    left: 86px;
+    top: 772px;
+    background: rgba(194, 101, 180, 0.5);
+	border-radius: 50%;
+	
+	animation-name: bounce;
+	animation-duration: 2.0s;
+	animation-direction: alternate;
+	animation-timing-function: cubic-bezier(0.95, 0.05, 0.795, 0.035);
+	animation-iteration-count: infinite;
+}
+
+@keyframes bounce {
+  from { 
+    transform: translateY(0) scale(1);
+  }
+  to   { 
+    transform: translateY(200px) scale(1, 0.7);
+  }
+}
+
+@keyframes grow {
+  from {
+    transform: scale(0.2, 0.5);
+  }
+
+  to {
+    transform: scale(1.5, 0.8);
+  }
+}
